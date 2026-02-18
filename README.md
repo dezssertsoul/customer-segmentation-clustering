@@ -1,7 +1,7 @@
 # Machine Learning: Clustering & Dimensionality Reduction Project
 
 ### Project Overview
-Proyek ini dikerjakan sebagai bagian dari perjalanan saya sebagai **AI Engineer Cohort di Pijar** dan diselesaikan melalui kurikulum **Dicoding**. Fokus utama proyek ini adalah mengidentifikasi pola tersembunyi dalam data melalui teknik *Unsupervised Learning* dan memvalidasinya menggunakan *Supervised Learning*.
+Proyek ini dikerjakan sebagai bagian dari perjalanan saya sebagai **AI Engineer Cohort di Pijak in collaboration with IBM Skillbuild** dan diselesaikan melalui kurikulum **Dicoding**. Fokus utama proyek ini adalah mengidentifikasi pola tersembunyi dalam data melalui teknik *Unsupervised Learning* dan memvalidasinya menggunakan *Supervised Learning*.
 
 ### Tech Stack
 * **Language:** Python
